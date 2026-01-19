@@ -12,6 +12,6 @@ function loop_size(node) {
     fast = fast.next;
     count++;
   }
-
+// ----
   return count;
 }
