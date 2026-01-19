@@ -8,3 +8,4 @@ String.prototype.camelCase = function () {
     )
     .join("");
 };
+// -------
